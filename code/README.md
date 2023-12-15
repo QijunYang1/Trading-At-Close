@@ -1,0 +1,5 @@
+- The original data is sourced from the [Optiver - Trading at the Close Kaggle competition](https://www.kaggle.com/competitions/optiver-trading-at-the-close).
+- Instead of spending time on feature engineering and selection, you can directly use the pre-processed data I've saved in a file named `df_train54.pkl` to replicate my results.
+- All the necessary data, including `df_train54.pkl`, can be accessed from my [Google Drive folder](https://drive.google.com/drive/folders/1FD5wV1MV0hDtviP6uNb_V507bv2uDUEz?usp=sharing).
+- The file `df_train54.pkl` contains all the features that have been engineered and selected.
+- The file `target_train.pkl` includes the target values that need to be predicted.

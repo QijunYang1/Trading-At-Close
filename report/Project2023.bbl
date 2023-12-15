@@ -1,0 +1,43 @@
+\begin{thebibliography}{9}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\EM}{\em}
+\providecommand{\RNtxt}{\relax}
+\RNtxt{}
+
+\bibitem[Chen, Guestrin(2016)T.~Chen, C.~Guestrin]{chen2016xgboost}
+{\EM Chen Tianqi, Guestrin Carlos}.
+\newblock Xgboost: A scalable tree boosting system \allowbreak\newblock// Proceedings of the 22nd acm sigkdd international conference on knowledge discovery and data mining. 2016.  785--794.
+
+\bibitem[Guyon et~al.(2002)I.~Guyon, J.~Weston, S.~Barnhill, V.~Vapnik]{guyon2002gene}
+{\EM Guyon Isabelle, Weston Jason, Barnhill Stephen, Vapnik Vladimir}.
+\newblock Gene selection for cancer classification using support vector machines \allowbreak\newblock// Machine learning. 2002. 46. 389--422.
+
+\bibitem[Ke et~al.(2017)G.~Ke, Q.~Meng, T.~Finley, T.~Wang, W.~Chen, W.~Ma, Q.~Ye, T.-Y. Liu]{ke2017lightgbm}
+{\EM Ke~Guolin, Meng Qi, Finley Thomas, Wang Taifeng, Chen Wei, Ma~Weidong, Ye~Qiwei, Liu Tie-Yan}.
+\newblock Lightgbm: A highly efficient gradient boosting decision tree \allowbreak\newblock// Advances in neural information processing systems. 2017. 30.
+
+\bibitem[O'hara(1998)M.~O'hara]{o1998market}
+{\EM O'hara Maureen}.
+\newblock Market microstructure theory. 1998.
+
+\bibitem[O'hara(2015)M.~O'hara]{o2015high}
+{\EM O'hara Maureen}.
+\newblock High frequency market microstructure \allowbreak\newblock// Journal of financial economics. 2015. 116, 2. 257--270.
+
+\bibitem[Paszke et~al.(2019)A.~Paszke, S.~Gross, F.~Massa, A.~Lerer, J.~Bradbury, G.~Chanan, T.~Killeen, Z.~Lin, N.~Gimelshein, L.~Antiga, A.~Desmaison, A.~Köpf, E.~Yang, Z.~DeVito, M.~Raison, A.~Tejani, S.~Chilamkurthy, B.~Steiner, L.~Fang, J.~Bai, S.~Chintala]{paszke2019pytorch}
+{\EM Paszke Adam, Gross Sam, Massa Francisco, Lerer Adam, Bradbury James, Chanan Gregory, Killeen Trevor, Lin Zeming, Gimelshein Natalia, Antiga Luca, Desmaison Alban, Köpf Andreas, Yang Edward, DeVito Zach, Raison Martin, Tejani Alykhan, Chilamkurthy Sasank, Steiner Benoit, Fang Lu, Bai Junjie, Chintala Soumith}.
+\newblock PyTorch: An Imperative Style, High-Performance Deep Learning Library. 2019.
+
+\bibitem[Pedregosa et~al.(2011)F.~Pedregosa, G.~Varoquaux, A.~Gramfort, V.~Michel, B.~Thirion, O.~Grisel, M.~Blondel, P.~Prettenhofer, R.~Weiss, V.~Dubourg, et~al.]{pedregosa2011scikit}
+{\EM Pedregosa Fabian, Varoquaux Ga{\"e}l, Gramfort Alexandre, Michel Vincent, Thirion Bertrand, Grisel Olivier, Blondel Mathieu, Prettenhofer Peter, Weiss Ron, Dubourg Vincent, others }.
+\newblock Scikit-learn: Machine learning in Python \allowbreak\newblock// the Journal of machine Learning research. 2011. 12. 2825--2830.
+
+\bibitem[Sel{\c{c}}uk, Gen{\c{c}}ay(2006)F.~Sel{\c{c}}uk, R.~Gen{\c{c}}ay]{selccuk2006intraday}
+{\EM Sel{\c{c}}uk Faruk, Gen{\c{c}}ay Ramazan}.
+\newblock Intraday dynamics of stock market returns and volatility \allowbreak\newblock// Physica A: Statistical Mechanics and its Applications. 2006. 367. 375--387.
+
+\bibitem[Zou, Hastie(2005)H.~Zou, T.~Hastie]{zou2005regularization}
+{\EM Zou Hui, Hastie Trevor}.
+\newblock Regularization and variable selection via the elastic net \allowbreak\newblock// Journal of the Royal Statistical Society Series B: Statistical Methodology. 2005. 67, 2. 301--320.
+
+\end{thebibliography}
