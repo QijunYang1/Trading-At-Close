@@ -2,6 +2,8 @@
 
 ## Introduction
 This project is an exploration into predicting closing price movements of Nasdaq listed stocks using data from the daily ten-minute closing auction on the NASDAQ stock exchange. The primary goal is to forecast future price movements relative to a synthetic index. This analysis plays a crucial role in enhancing market efficiency, especially during the final minutes of trading, which are often marked by heightened volatility.
+- [Final Report](https://github.com/QijunYang1/Trading-At-Close/blob/main/report/Project2023.pdf)
+- [Code](https://github.com/QijunYang1/Trading-At-Close/blob/main/code/code.ipynb)
 
 ## Dataset
 The dataset provided by the Optiver Kaggle competition includes the following key variables:
@@ -56,6 +58,8 @@ The project faced several challenges, including handling Kaggle's 30GB RAM limit
 ## Conclusion
 The project underscored the importance of various features across different models and highlighted the trade-offs between model complexity and interpretability.
 
+## Contact
+[Qijun Yang](yqj1317@outlook.com)
 
 _This project is part of the CompSci671 course and was submitted on December 5th, 2023 by Qijun Yang._
 
